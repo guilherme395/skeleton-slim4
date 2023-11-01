@@ -1,6 +1,6 @@
 # Slim Framework 4 Starter Template
 
-This is a basic starter template for Slim Framework 4 that provides a minimal structure for building web applications. It includes pre-built authentication for normal users and admins, as well as a basic 404 error handling mechanism. This template is designed to serve as a foundation for larger projects, not as a complete ready-to-use application.
+This is a basic starter template for Slim Framework 4 that provides a minimal structure for building web applications. It includes pre-built authentication for normal users and admins, as well as a basic 404 error handling mechanism. This template is designed to serve as a foundation for larger projects, adhering to the principles of Object-Oriented Programming (OOP) and the Model-View-Controller (MVC) pattern for improved code organization, readability, and ease of maintenance.
 
 ## Requirements
 
